@@ -7,7 +7,7 @@
 |名称|链接|
 |-|-|
 |《凡人修仙传》有声小说（0001-0200）【1/8】|https://www.youtube.com/playlist?list=PLTJaWZoVPdT0eJmyU007ErWp5nwgFD9gO |
-|《凡人修仙传》有声小说（0201-0400）【2/8】|| https://www.youtube.com/playlist?list=PLTJaWZoVPdT3oYVeSSfh1Yd8LvDcdiOqS |
+|《凡人修仙传》有声小说（0201-0400）【2/8】| https://www.youtube.com/playlist?list=PLTJaWZoVPdT3oYVeSSfh1Yd8LvDcdiOqS |
 |《凡人修仙传》有声小说（0401-0600）【3/8】| https://www.youtube.com/playlist?list=PLTJaWZoVPdT389mx3RdY1DUwQ6F6P3smD |
 |《凡人修仙传》有声小说 （601 - 800）【4/8】| https://www.youtube.com/playlist?list=PLxak_2LR4viV3D2rc_PolpcLEOzkVL14v |
 |《凡人修仙传》有声小说 （801 - 1000）【5/8】| https://www.youtube.com/playlist?list=PLxak_2LR4viX1cGNJki64I1wZIrEN2he- |
