@@ -14,8 +14,8 @@
 |趣笔阁|http://www.biqugew.com/book/13/||
 
 ## 《凡人修仙传》有声小说 桑梓 演播 喜马拉雅
-免费版 1-425 https://www.ximalaya.com/youshengshu/3290982/
-精品版 426-600+ https://www.ximalaya.com/youshengshu/14356532/
++ 免费版 1-425 https://www.ximalaya.com/youshengshu/3290982/
++ 精品版 426-600+ https://www.ximalaya.com/youshengshu/14356532/
 
 ## 《凡人修仙传》有声小说 大灰狼 演播 YouTube
 
