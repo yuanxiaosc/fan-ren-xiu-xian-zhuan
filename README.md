@@ -15,6 +15,7 @@
 
 ## 《凡人修仙传》有声小说 桑梓 演播 喜马拉雅
 免费版 1-425 https://www.ximalaya.com/youshengshu/3290982/
+精品版 426-600+ https://www.ximalaya.com/youshengshu/14356532/
 
 ## 《凡人修仙传》有声小说 大灰狼 演播 YouTube
 
@@ -29,6 +30,10 @@
 |《凡人修仙传》有声小说（1201-1400）【7/8】| https://www.youtube.com/playlist?list=PLTJaWZoVPdT1ePwvhqHLdDhfsHvsnZmWZ |
 |《凡人修仙传》有声小说（1401-1631）【8/8】| https://www.youtube.com/playlist?list=PLTJaWZoVPdT2X-cE47-s2k02ZY6y7SYrC |
 
+**大批量下载方法** 
++ 安装 [youtube-dl](https://github.com/rg3/youtube-dl)
++ 使用代理下载 youtube-dl --proxy https://127.0.0.1:1080 凡人修仙URL
++ 部分下载 youtube-dl --playlist-start 10 凡人修仙URL
 
 ## 韩立功法升级时间线
 [凡人修仙时间线](https://github.com/yanming152/fanren/blob/master/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E6%97%B6%E9%97%B4%E7%BA%BF.txt)
