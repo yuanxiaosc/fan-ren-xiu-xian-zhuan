@@ -13,6 +13,13 @@
 |顶点小说|https://www.booktxt.net/1_1562/||
 |趣笔阁|http://www.biqugew.com/book/13/||
 
+## 《凡人修仙传》有声小说 大灰狼 演播
+
+**1-1631 全集下载 30G ** 	smiley :smiley:
+
+[百度网盘下载连接](https://pan.baidu.com/s/1b3Pnw1rBU-pt-StXAK9DDw) 
+提取码： lpis
+
 ## 《凡人修仙传》有声小说 桑梓 演播 喜马拉雅
 + 免费版 1-425 https://www.ximalaya.com/youshengshu/3290982/
 + 精品版 426-600+ https://www.ximalaya.com/youshengshu/14356532/
