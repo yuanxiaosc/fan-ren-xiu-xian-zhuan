@@ -32,9 +32,8 @@
 
 ## 小说文本下载
 凡人修仙传.txt 凡人修仙传仙界篇.txt
-链接：https://pan.baidu.com/s/1bYErBHF5haENZ7yKDPyBxA 
-提取码：14eu 
-
+链接：https://pan.baidu.com/s/16GEMUNFB7IRMtvXjQw1CsQ 
+提取码：c3oy 
 
 ## 有声小说
 > 其实没必要下载有声小说了，可以直接下载txt文本+有声小说阅读器朗读即可。
