@@ -30,10 +30,17 @@
 |趣笔阁|https://www.biquke.com/bq/0/990/|
 
 
+## 视频
+
+### 凡人修仙传动漫
+[凡人修仙传-哔哩哔哩](https://www.bilibili.com/bangumi/media/md28223043/)
+
+
 ## 小说文本下载
 凡人修仙传.txt 凡人修仙传仙界篇.txt
 链接：https://pan.baidu.com/s/16GEMUNFB7IRMtvXjQw1CsQ 
 提取码：c3oy 
+
 
 ## 有声小说
 > 其实没必要下载有声小说了，可以直接下载txt文本+有声小说阅读器朗读即可。
@@ -72,3 +79,4 @@
 
 ## 韩立功法升级时间线
 [凡人修仙时间线](https://github.com/yanming152/fanren/blob/master/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E6%97%B6%E9%97%B4%E7%BA%BF.txt)
+
