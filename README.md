@@ -38,6 +38,8 @@
 
 ## 小说文本下载
 凡人修仙传.txt 凡人修仙传仙界篇.txt
+
+百度云盘
 链接：https://pan.baidu.com/s/16GEMUNFB7IRMtvXjQw1CsQ 
 提取码：c3oy 
 
@@ -49,9 +51,16 @@
 
 ### 《凡人修仙传》有声小说 大灰狼 演播
 1-1631 全集下载  30G :smiley:
-
+#### 百度云盘
+```
 链接：https://pan.baidu.com/s/1VTXtbAddcrlundsMXwRDEw 
 提取码：bspq
+```
+
+#### 阿里云盘
+```
+链接：https://www.aliyundrive.com/s/wjMmToKzSyM
+```
 
 ### 《凡人修仙传》有声小说 桑梓 演播 喜马拉雅
 + 免费版 1-425 https://www.ximalaya.com/youshengshu/3290982/
